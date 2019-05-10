@@ -1,0 +1,73 @@
+@charset "utf-8";
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+[class*="fontawesome-"]:before {
+    font-family: 'FontAwesome', sans-serif;
+}
+
+body {
+    background-image: url("1.jpg");
+      background-size: cover;
+}
+#main{
+     margin: 0px auto;
+    width: 900px;
+    height: 100%;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 0px 0px 5px #888888;
+    opacity: 0.7;
+}
+#omotac{
+     margin: 0px auto;
+    width: 1000px;
+    height: 100%;
+   
+    background-color: white;
+   
+   
+}
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+
+#left {
+     width: 400px;
+     height: 600px;
+    background-color: white;
+     padding: 0;
+     margin: 0;
+    float: left;
+     border: 1px solid red;
+    }
+#right {
+     width: 600px;
+     height: 600px;
+    background-color: white;
+     padding: 0;
+     margin: 0;
+    float: right;
+     border: 1px solid red;
+}
+
+#levi {
+     width: 600px;
+     height: 600px;
+    background-color: white;
+     padding: 0;
+     margin: 0;
+    float: left;
+     border: 1px solid red;
+    }
+#desni {
+     width: 400px;
+     height: 600px;
+    background-color: white;
+     padding: 0;
+     margin: 0;
+    float: right;
+     border: 1px solid red;
+}
+
+
+
